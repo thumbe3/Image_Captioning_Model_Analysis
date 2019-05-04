@@ -1,0 +1,128 @@
+<start> a bathroom with a toilet and a sink .
+<start> a group of people standing next to each other holding a cell phone .
+<start> a man is walking down a street next to a fire hydrant .
+<start> a bathroom with a sink and a sink .
+<start> a man and a dog are walking on a beach .
+<start> a bathroom with a sink , toilet and a sink .
+<start> a group of zebra standing next to each other on a field .
+<start> a group of giraffes standing in a field .
+<start> a man and woman in a room with a laptop .
+<start> a kitchen with a stove and a stove top oven .
+<start> a man is sitting on a bed with a cat .
+<start> a cell phone is sitting on a table .
+<start> a man and woman in a room with a remote .
+<start> a train is traveling down a track near a bridge .
+<start> a plate of food with a fork and a fork .
+<start> a cat sitting on a bench next to a window .
+<start> a red double decker bus driving down a street .
+<start> a giraffe standing in a tree next to a tree .
+<start> a car parked next to a parking meter .
+<start> a train station with a train on the platform .
+<start> a large jetliner flying through a blue sky .
+<start> a plate of food with a fork and a fork .
+<start> a group of elephants walking through a lake .
+<start> a dog is standing in the water with a dog .
+<start> a large jetliner flying through a blue sky .
+<start> a city street with a city street in the background .
+<start> a teddy bear sitting on a couch next to a stuffed animal .
+<start> a man is flying a kite in a field .
+<start> a large airplane is sitting on the runway .
+<start> a man is standing on a skateboard in the water .
+<start> a bathroom with a sink and a sink .
+<start> a man and a woman are sitting on a boat .
+<start> a bathroom with a sink and a sink .
+<start> a train is traveling down a track next to a building .
+<start> a bed with a blanket on it 's side .
+<start> a fire hydrant sitting on the side of a road .
+<start> a train is traveling down a track next to a train .
+<start> a close up of a pair of scissors on a table .
+<start> a motorcycle parked on a sidewalk next to a car .
+<start> a group of zebra standing next to each other on a field .
+<start> a room with a bed and a window in the background .
+<start> a person is sitting on a bench in the park .
+<start> a large building with a clock on the side of it .
+<start> a herd of sheep standing on top of a lush green field .
+<start> a man wearing a tie and a tie .
+<start> a red fire hydrant sitting on the side of a street .
+<start> a clock tower with a clock on top of it .
+<start> a toilet with a toilet in it 's seat .
+<start> a man sitting on a bench with a cat on his lap .
+<start> a group of zebra standing next to each other on a field .
+<start> a person flying a kite on a beach .
+<start> a man is playing baseball on a field .
+<start> a plate of food with a fork and a fork .
+<start> a man sitting on a bench with a cat on his head .
+<start> a train station with a train on the platform .
+<start> a man and woman are eating a meal at a table .
+<start> a man is riding a horse in a field .
+<start> a man wearing a suit and tie in a room .
+<start> a elephant is walking through a forest with trees .
+<start> a black and white photo of a black and white photo .
+<start> a cat laying on a bed next to a laptop .
+<start> a bathroom with a toilet and a sink .
+<start> a baby is sitting on a couch with a stuffed animal .
+<start> a baby is sitting on a bed with a stuffed animal .
+<start> a train is traveling down a track next to a building .
+<start> a kitchen with a stove and a stove top oven .
+<start> a man and woman in a room with a remote .
+<start> a bathroom with a sink and a sink .
+<start> a group of people sitting on a bench in front of a building .
+<start> a group of people standing next to each other holding a cell phone .
+<start> a red and white photo of a red bus .
+<start> a table with a bunch of different types of food .
+<start> a train station with a train on the platform .
+<start> a city street with a street light and a traffic light .
+<start> a plate of food with a fork and a fork .
+<start> a cat is laying on a laptop computer .
+<start> a man is sitting on a boat with a dog .
+<start> a man and a woman are sitting on a bench .
+<start> a snowboarder is doing a trick on a snowy slope .
+<start> a brown bear standing next to a tree .
+<start> a little girl brushing her teeth in a bathroom .
+<start> a train is traveling down a track near a bridge .
+<start> a man is sitting on a beach with a surfboard .
+<start> a bathroom with a toilet and a sink .
+<start> a group of people flying a kite in a field .
+<start> a bathroom with a sink and a sink .
+<start> a pizza with a pizza on a wooden table .
+<start> a giraffe standing in a tree next to a tree .
+<start> a black bear is standing in the grass .
+<start> a man is standing in the snow with a snowboard .
+<start> a boat is docked in a harbor with a boat in the background .
+<start> a man wearing a tie and a tie .
+<start> a man is playing frisbee in a field .
+<start> a man and woman in a room with a remote .
+<start> a man holding a baseball bat in a baseball game .
+<start> a train is traveling down a track near a bridge .
+<start> a plate of food with a salad and a fork .
+<start> a city street with a city street in the background .
+<start> a man is flying a kite in a field .
+<start> a large jetliner flying through a blue sky .
+<start> a man and woman are eating a meal at a table .
+<start> a young boy is brushing his teeth in a bathroom .
+<start> a baby laying on a bed with a blanket .
+<start> a large elephant standing in a field with a tree .
+<start> a man and woman in a room with a remote .
+<start> a baby is sitting on a couch with a stuffed animal .
+<start> a bird is sitting on a branch of a bird .
+<start> a close up of a pair of scissors on a table .
+<start> a car parked next to a parking meter .
+<start> a bathroom with a toilet and a sink .
+<start> a black and white photo of a motorcycle parked on a street .
+<start> a large building with a clock on the side of it .
+<start> a train is parked on the tracks near a train station .
+<start> a red and white photo of a building with a clock on it .
+<start> a train is traveling down a track near a bridge .
+<start> a woman sitting on a bench with a umbrella .
+<start> a clock is hanging on a pole outside
+<start> a cat is sitting on a couch next to a cat .
+<start> a clock tower with a clock on top of it .
+<start> a vase of flowers sitting on a table .
+<start> a toilet with a toilet in a bathroom .
+<start> a man and woman are eating a meal at a table .
+<start> a man is preparing to eat a pizza .
+<start> a motorcycle parked on a sidewalk next to a car .
+<start> a man and a woman are sitting on a bench .
+<start> a large elephant standing next to a building .
+<start> a man is holding a frisbee in his hand .
+<start> a man wearing a tie and a tie .
